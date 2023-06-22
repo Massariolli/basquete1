@@ -4,7 +4,11 @@ h1 {color: crimson;
 h1 {text-align: center;
 }
 
-#bas {width: 35%;}
+#bas {width: 35%;
+}
+
+#bas {margin-left: 20%;]
+}
 
 #basq {width: 25%;
 }
@@ -20,4 +24,5 @@ b {color: blueviolet;
 
 #basquete {margin-left: 25%;
 }
+
 
