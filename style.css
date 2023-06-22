@@ -19,6 +19,12 @@ h1 {font-size: 200%;
 #bas {margin-left: 33%;
 }
 
+#bas {margin: left;
+}
+
+#bas {margin: right;
+}
+
 #basq {width: 35%;
 }
 
