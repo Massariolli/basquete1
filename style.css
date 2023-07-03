@@ -52,6 +52,12 @@ b {color: goldenrod;
 a {text-align: center;
 }
 
+a {color: rgb(17, 204, 0);
+}
+
+a{font-size: 33%;
+}
+
 h3 {color: royalblue;
 }
 
